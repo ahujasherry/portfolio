@@ -1,7 +1,6 @@
 import ProgressBar from "../ProgressBar";
 import {
 	SiExpress,
-	SiNextdotjs,
 	SiReact,
 	SiTailwindcss,
 	SiTypescript,
