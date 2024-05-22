@@ -32,7 +32,7 @@ export default function About() {
 			</h1>
 			<p className="text-lg animate-reveal-0.7">
 			Developed terminal portfolio with React.js and Tailwind Css<br />
-			<a href="https://github.com/ahujasherry/BookStore_MERN" className="text-yellow-200 hover:underline"> GitHub Link</a>
+			<a href="https://github.com/ahujasherry/portfolio.git" className="text-yellow-200 hover:underline"> GitHub Link</a>
 			</p>
 			<br />
 
